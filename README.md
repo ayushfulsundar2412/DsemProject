@@ -1,4 +1,5 @@
 🫀 Cardiovascular Disease Risk Prediction
+
 📌 Overview
 This project aims to predict the risk of cardiovascular disease (CVD) by analyzing longitudinal Electronic Health Records (EHR) using both traditional machine learning models (like Logistic Regression and Random Forest) and deep learning models (like LSTM). The goal is to assess how historical patient data can enhance prediction accuracy.
 
